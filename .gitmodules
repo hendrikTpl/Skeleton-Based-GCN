@@ -1,0 +1,9 @@
+[submodule "skeleton-based-ar-efcc"]
+	path = skeleton-based-ar-efcc
+	url = git@github.com:hendrikTpl/skeleton-based-ar-efcc.git
+[submodule "STGCN-PAM-TPIR"]
+	path = STGCN-PAM-TPIR
+	url = git@github.com:hendrikTpl/STGCN-PAM-TPIR.git
+[submodule "ht-stgcn"]
+	path = ht-stgcn
+	url = git@github.com:hendrikTpl/ht-stgcn.git
